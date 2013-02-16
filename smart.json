@@ -3,6 +3,6 @@
   "description": "hashids repackaged for Meteor",
   "homepage": "http://www.hashids.org/",
   "author": "Ivan Akimov <crapthings@gmail.com> (http://ivanakimov.com/)",
-  "version": "v0.2",
+  "version": "0.2",
   "git": "https://github.com/crapthings/meteor-hashids.git"
 }
