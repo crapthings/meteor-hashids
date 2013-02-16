@@ -1,0 +1,8 @@
+{
+  "name": "hashids",
+  "description": "hashids repackaged for Meteor",
+  "homepage": "http://www.hashids.org/",
+  "author": "Ivan Akimov <crapthings@gmail.com> (http://ivanakimov.com/)",
+  "version": "v0.1.4",
+  "git": "https://github.com/ivanakimov/hashids.js.git"
+}
