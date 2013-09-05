@@ -1,3 +1,0 @@
-[submodule "lib/hashids"]
-	path = lib/hashids
-	url = git://github.com/ivanakimov/hashids.js.git

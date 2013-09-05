@@ -1,5 +1,3 @@
-# Meteor.js 0.5.7 provide a new package "random" so that i might not need this.
-
 # hashids repackaged for Meteor.js
 
 this package provide a method to gen hashid use

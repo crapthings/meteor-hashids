@@ -4,7 +4,6 @@ Package.describe({
 
 Package.on_use(function (api, where) {
   where = where || ['client', 'server'];
-
-  api.add_files('lib/hashids/hashids.js', where);
+  api.add_files('hashids.min.js', where);
   api.add_files('common.js', where);
 });
