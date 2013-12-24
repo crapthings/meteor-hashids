@@ -1,4 +1,4 @@
-if (typeof Package !== "undefined") Hashids = this.Hashids;
+//if (typeof Package !== "undefined") Hashids = this.Hashids;
 
 _.extend(Meteor, {
   hashid: function() {
